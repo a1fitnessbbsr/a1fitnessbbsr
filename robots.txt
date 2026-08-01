@@ -7,4 +7,4 @@ Allow: /
 # Block non-content paths (if added later)
 Disallow: /assets/scripts/
 
-Sitemap: https://a1fitnessbbsr.github.io/sitemap.xml
+Sitemap: https://a1fitnessbbsr.github.io/a1fitnessbbsr/sitemap.xml

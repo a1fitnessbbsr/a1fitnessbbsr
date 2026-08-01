@@ -8,7 +8,7 @@
   "theme_color": "#1a7aff",
   "lang": "en-IN",
   "orientation": "portrait-primary",
-  "categories": ["fitness", "health", "sports"],
+  "categories": ["fitness", "health", "sports", "gym", "personal training", "weight loss", "crossfit"],
   "icons": [
     {
       "src": "assets/images/favicon.svg",
