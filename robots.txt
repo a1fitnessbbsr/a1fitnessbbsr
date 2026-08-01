@@ -1,0 +1,10 @@
+# A1 FITNESS — Bhubaneswar | GitHub Pages
+# Update Sitemap URL if your live domain differs from the placeholder below.
+
+User-agent: *
+Allow: /
+
+# Block non-content paths (if added later)
+Disallow: /assets/scripts/
+
+Sitemap: https://a1fitnessbbsr.github.io/sitemap.xml

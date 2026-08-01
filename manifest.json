@@ -1,0 +1,26 @@
+{
+  "name": "A1 FITNESS — Gym & Fitness Center Bhubaneswar",
+  "short_name": "A1 Fitness",
+  "description": "Best gym in Bhubaneswar, Patia. Strength training, CrossFit, personal trainers, weight loss programs & women's fitness.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#1a7aff",
+  "lang": "en-IN",
+  "orientation": "portrait-primary",
+  "categories": ["fitness", "health", "sports"],
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
